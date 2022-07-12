@@ -266,28 +266,28 @@ text-align: center;
     padding: 20px;
 }
 .service-box-1{
-    background-color: antiquewhite;
+    background-color: lightblue;
     width: 20%;
     text-align: center;
     border-radius: 55px;
     padding: 30px;
 }
 .service-box-2{
-    background-color: antiquewhite;
+    background-color: lightblue;
     width: 20%;
     text-align: center;
     border-radius: 55px;
     padding: 30px;
 }
 .service-box-3{
-    background-color: antiquewhite;
+    background-color: lightblue;
     width: 20%;
     text-align: center;
     border-radius: 55px;
     padding: 30px;
 }
 .service-box-4{
-    background-color: antiquewhite;
+    background-color: lightblue;
     width: 20%;
     height: 150px;
     text-align: center;
@@ -346,4 +346,45 @@ background-color: #fff;
 justify-content: center;
 align-items: center;
 border-radius: 55px;
+}
+.testimonials-head{
+    text-align: center;
+        padding-bottom: 30px;
+        font-size: 32px;
+        font-weight: bold;
+        text-transform: uppercase;
+        position: relative;
+        color: #222222;
+        font-family: "Raleway", sans-serif;
+        margin-top: 50px;
+    }
+    .testimonials-intro p{
+        text-align: center;
+        font-family: "Open Sans", sans-serif;
+        color: #444444;
+        margin-top: -50px;
+    }
+.company-chief{
+    display: flex;
+    justify-content: space-evenly;
+}
+.ceo-flexbox{
+    display: flex;
+    
+}
+.ceo{
+    background-color: lightblue;
+    width: 40%;
+    
+}
+.designer{
+    background-color: lightblue;
+    width: 40%;
+}
+.ceo-img img{
+    width: 80px;
+    
+}
+.designer-img img{
+    width: 80px;
 }
